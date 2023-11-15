@@ -1,0 +1,21 @@
+#headerul{
+    justify-content: right;
+    padding-left: 100px;
+}
+.Container{
+display: inline-flex;
+flex-flow: wrap;
+font-size: x-large;
+    font-weight: bolder;
+}
+.Reboot{
+    font-size: x-large;
+    font-weight: bolder;
+}
+#title{
+    font-size: medium;
+    font-style: italic;
+}
+
+
+
